@@ -140,6 +140,7 @@ img {
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Box shadow for sections */
 }
 
+/*this is for the main title*/
 h1 {
   position: relative;
   padding-left: 110px;
